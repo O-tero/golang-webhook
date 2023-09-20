@@ -20,8 +20,8 @@ This project demonstrates a webhook service implemented in Golang. It uses Redis
 ### Clone the Repository
 
 ```bash
-git https://github.com/koladev32/golang-wehook.git
-cd golang-wehook
+git https://github.com/O-tero/golang-webhook.git
+cd webhook
 ```
 
 ### Set Up Environment Variables
